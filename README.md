@@ -1,20 +1,60 @@
-# Python for Medical AI
+# Hi, I'm Stephen Adu-Boahen
 
-This repository contains Python projects focused on healthcare applications.
+# Healthcare Data Analyst | SQL | Power BI | Tableau
 
-## 👨‍⚕️ About Me
-I am a Medical Doctor learning AI and programming to build tools that improve healthcare delivery.
+I am a healthcare professional with an MBBS background, now focused on data analytics and business intelligence. I specialize in transforming complex healthcare and operational data into actionable insights that drive better decision-making.
 
-## 📂 Projects
+---
 
-### 1. BMI Calculator
-- Takes user input (height and weight)
-- Calculates Body Mass Index (BMI)
-- Demonstrates basic Python concepts
+## What I Do
 
-## 🚀 Goals
-- Build AI-powered healthcare tools
-- Improve clinical workflows using technology
+- Analyze and query data using SQL
+- Build interactive dashboards using Power BI
+- Create compelling data visualizations using Tableau
+- Apply data analytics in healthcare and biotech environments
 
-## 🛠️ Tools Used
-- Python
+---
+
+##  Featured Projects
+
+###  Healthcare Data Analysis (SQL)
+- Extracted and analyzed patient data using SQL
+- Performed joins, aggregations, and trend analysis
+- Identified top diagnoses and patient patterns
+
+### Hospital Performance Dashboard (Power BI)
+- Built an interactive dashboard to track:
+- Patient admissions
+- Average length of stay
+- Readmission rates
+- Used data modeling and DAX measures
+
+### Patient Insights Dashboard (Tableau)
+- Designed dashboards analyzing:
+- Patient wait times
+- Satisfaction trends
+- Operational efficiency
+
+---
+
+## Tools & Technologies
+
+- SQL (PostgreSQL / MySQL)
+- Power BI
+- Tableau
+- Excel
+- Data Visualization
+
+---
+
+## What Sets Me Apart
+
+With a strong medical background and data analytics skills, I bring a unique perspective to analyzing healthcare data and uncovering insights that improve patient outcomes and operational performance.
+
+---
+
+## Current Focus
+
+- Building end-to-end data projects (SQL → Dashboard → Insights)
+- Expanding portfolio with real-world healthcare datasets
+- Strengthening data visualization and storytelling skills
